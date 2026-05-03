@@ -56,7 +56,7 @@ distribution, and radial velocity distribution.*
 
 ### Color-Magnitude Diagram (Gaia DR3)
 
-![CMD](cmd_gaia_dr3)
+![CMD](cmd_gaia_dr3.png)
 
 *Color-Magnitude Diagram showing the main sequence clearly. Points 
 in the lower left (BP-RP < 0.5, M_G > 10) could be white dwarf 
