@@ -65,12 +65,12 @@ by including parallax_error in the query.*
 
 ### Color-Magnitude Diagram (Gaia RD3) by distance
 
-![CMD_distance]()
+![CMD_distance](cmd_distance_color.png)
 
-*Color-Magnitude Diagram showing the main sequence clearly. Points 
-in the lower left (BP-RP < 0.5, M_G > 10) could be white dwarf 
-candidates or parallax outliers — future work could investigate this 
-by including parallax_error in the query.*
+*The color–magnitude diagram is colored by distance to explore the spatial 
+distribution of the stars. The main sequence is dominated by nearby stars, 
+while brighter regions show a larger spread in distance, indicating a mixture 
+of stellar populations.*
 
 ---
 
