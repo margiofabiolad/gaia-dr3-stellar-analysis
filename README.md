@@ -63,6 +63,15 @@ in the lower left (BP-RP < 0.5, M_G > 10) could be white dwarf
 candidates or parallax outliers — future work could investigate this 
 by including parallax_error in the query.*
 
+### Color-Magnitude Diagram (Gaia RD3) by distance
+
+![CMD_distance]()
+
+*Color-Magnitude Diagram showing the main sequence clearly. Points 
+in the lower left (BP-RP < 0.5, M_G > 10) could be white dwarf 
+candidates or parallax outliers — future work could investigate this 
+by including parallax_error in the query.*
+
 ---
 
 ## Technical Stack
