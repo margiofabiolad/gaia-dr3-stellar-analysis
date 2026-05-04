@@ -49,7 +49,7 @@ All data were downloaded directly from the Gaia Archive using
 
 ### Exploratory Data Analysis
 
-![EDA](eda_4panels.pdf)
+![EDA](eda_4panels.png)
 
 *Four-panel EDA: sky distribution, magnitude histogram, parallax 
 distribution, and radial velocity distribution.*
