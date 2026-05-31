@@ -1,5 +1,7 @@
 # Stellar Data Analysis with Gaia DR3
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margiofabiolad/gaia-dr3-stellar-analysis/blob/main/gaia-dr3-stellar-analysis.ipynb) `gaia-dr3-stellar-analysis.ipynb`
+
 ## Overview
 
 This project demonstrates a complete data science pipeline applied to 
